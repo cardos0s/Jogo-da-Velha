@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/Área de Trabalho/Jogo-Da-Velha-Remoto-main"
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
